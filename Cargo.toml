@@ -1,0 +1,8 @@
+[package]
+edition = "2024"
+name = "Sunset"
+version = "0.0.1"
+authors = ["kkettums"]
+
+[dependencies]
+
