@@ -1,0 +1,17 @@
+[client]
+decoder = 'h264'
+
+[stream]
+ipv6 = 'ff:ff:ff:ff:ff:ff'
+port = '6767'
+
+protocol = 'UDP'
+
+up = 500
+down = 500
+
+[stream.data]
+x_resolution=640
+y_resolution=480
+
+encoder='h264'
