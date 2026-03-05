@@ -1,5 +1,6 @@
 [client]
 decoder = 'h264'
+hw_accel = true
 
 [stream]
 ipv6 = 'ff:ff:ff:ff:ff:ff'
