@@ -5,7 +5,7 @@ decoder = 'h264'
 ipv6 = 'ff:ff:ff:ff:ff:ff'
 port = '6767'
 
-protocol = 'UDP'
+protocol = 'udp'
 
 up = 500
 down = 500
